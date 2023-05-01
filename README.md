@@ -111,4 +111,4 @@ If you would like to contribute to this project, please open an issue or submit 
 pull request. All contributions are welcome!
 
 ## Authors
-1. Barasa Michael Murunga michael.barasa@strathmore.edu
+Barasa Michael Murunga michael.barasa@strathmore.edu
